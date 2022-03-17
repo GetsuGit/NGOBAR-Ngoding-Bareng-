@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.getsucode.ngobarV1.Menu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriAndroid.ListMateriAndroid4"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriAndroid.ListMateriAndroid3"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriAndroid.ListMateriAndroid2"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriAndroid.ListMateriAndroid1"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriJava.ListMateriJava4"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriJava.ListMateriJava3"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriJava.ListMateriJava2"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriKotlin.ListMateriKotlin4"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriKotlin.ListMateriKotlin3"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriKotlin.ListMateriKotlin2"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.AndroidList"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriJava.ListMateriJava1"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.JavaList"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.SubListMateriKotlin.ListMateriKotlin1"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.ListMateri.KotlinList"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.Materi.MateriAndroid"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.Materi.MateriJava"
+            android:exported="false" />
+        <activity
+            android:name="com.getsucode.ngobarV1.Materi.MateriKotlin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityKT"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

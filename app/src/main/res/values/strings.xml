@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NGOBAR</string>
+    <string name="konten"><b>Tentang Aplikasi\n\n</b>NGOBAR (Ngoding Bareng) aplikasi ini buat untuk membantu dalam alternatif pembelajaran pemrograman\n\ndibuat dengan konsep pocket modul materi pembelajaran, sebagai acuan dalam belajar beberapa bahasa pemrograman\n\nDi aplikasi ini tersedia beberapa materi pembelajaran bahasa pemrograman seperti\n\n
+    1. Belajar Kotlin\n
+    2. Belajar Java\n
+    3. Belajar Android\n
+    4. dan beberapa artikel menarik lainnya\n\nSemoga aplikasi ini bisa membantu dalam belajar pemrograman dan memberi kemudahan dalam mengakses materi belajar pemrograman\n\n
+    Salam Kopi Hangat :)</string>
+
+    <!-- Materi Review -->
+    <string name="selamat_datang_kotlin"><p>Materi</p> belajar kotlin akan di arahkan melalui link ke YouTube dan modul yang telah tersedia, yaitu :\n\n
+    1. Belajar Kotlin Dasar\n
+    2. Belajar Kotlin OOP\n
+    3. Belajar Kotlin Coroutine</string>
+
+    <!-- Materi Android -->
+    <string name="selamat_datang_android"><p>Materi</p> belajar android akan di arahkan melalui link ke YouTube yang membahas tutorial android dasar, yaitu :\n\n
+    1. Mengenal Android Studio\n
+    2. Activity\n
+    3. Layout\n
+    4. Fragment\n
+    5. Button</string>
+
+    <!-- Materi Java -->
+    <string name="selamat_datang_java"><p>Materi</p> belajar Java akan di arahkan melalui link ke YouTube dan beberapa modul yang tersedia, yaitu :\n\n
+    1. Java Dasar\n
+    1. Java OOP\n
+    2. Java Collection\n
+    3. Java Generic</string>
+</resources>
